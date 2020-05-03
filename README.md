@@ -1,6 +1,6 @@
 # Demo
 
-[[https://github.com/kunj-sangani/SPFx_BarCode_Scanner/tree/master/Video/Demo.gif|alt=Demo]]
+![alt=Demo](https://github.com/kunj-sangani/SPFx_BarCode_Scanner/blob/master/Video/Demo.gif)
 
 # read-bar-code
 

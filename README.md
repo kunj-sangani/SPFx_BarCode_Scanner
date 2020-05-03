@@ -1,3 +1,7 @@
+# Demo
+
+[[https://github.com/kunj-sangani/SPFx_BarCode_Scanner/tree/master/Video/Demo.gif|alt=Demo]]
+
 # read-bar-code
 
 This project uses [React](https://reactjs.org).
